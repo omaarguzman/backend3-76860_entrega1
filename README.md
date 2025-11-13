@@ -1,4 +1,4 @@
-# Proyecto Final Backend - API de Adopción de Mascotas
+# Proyecto Backend III - API de Adopción de Mascotas (Entrega 1)
 
 Este repositorio corresponde a la entrega final del curso de Backend de Coderhouse (Comisión #76860). Es una API RESTful construida con Node.js, Express y MongoDB, diseñada para gestionar usuarios, mascotas y adopciones.
 
